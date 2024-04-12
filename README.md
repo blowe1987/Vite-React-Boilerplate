@@ -2,9 +2,9 @@
 
 # Vite + React Boilerplate
 
-![GitHub License](https://img.shields.io/github/license/blowe1987/Vite.js-React.js-Tailwind-Boilerplate)
-![GitHub Stars](https://img.shields.io/github/stars/blowe1987/Vite.js-React.js-Tailwind-Boilerplate)
-![GitHub Forks](https://img.shields.io/github/forks/blowe1987/Vite.js-React.js-Tailwind-Boilerplate)
+![GitHub License](https://img.shields.io/github/license/blowe1987/Vite-React-Boilerplate)
+![GitHub Stars](https://img.shields.io/github/stars/blowe1987/Vite-React-Boilerplate)
+![GitHub Forks](https://img.shields.io/github/forks/blowe1987/Vite-React-Boilerplate)
 
 - [Description](#description)
 - [Features](#features)
