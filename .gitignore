@@ -1,5 +1,32 @@
-# Logs
-logs
+# Dependency folders
+node_modules/
+bower_components/
+vendor/
+
+# Build artifacts
+build/
+dist/
+out/
+target/
+
+# Temporary files
+.tmp/
+*.swp
+*~
+*.bak
+.DS_Store
+
+# IDE or editor-specific files
+.idea/
+.vscode/
+*.suo
+*.njsproj
+
+# Configuration files
+.env
+.env.local
+
+# Logs and debug files
 *.log
 npm-debug.log*
 yarn-debug.log*
@@ -7,18 +34,20 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# User-specific files
+.history/
+*.history
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# Generated or compiled code
+*.min.js
+*.min.css
+*.jar
+*.war
+*.ear
+*.class
+
+# Sensitive information
+*.key
+*.pem
+*.p12
+*.pfx
